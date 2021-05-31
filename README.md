@@ -1,6 +1,4 @@
-# Livro de Receitas :woman_cook:
+# Livro de Dicas para estudantes :woman_student:
 
-Olá! Bem vindo ao meu livro de receitas :wave:
-
-- Strogonof de Frango
-- Pavê
+- Ensino Médio
+- Ensino Superior
